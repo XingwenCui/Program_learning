@@ -1,3 +1,11 @@
+/*
+ * @Author: XingwenCui cxw1997n@gmail.com
+ * @Date: 2022-11-17 23:50:14
+ * @LastEditors: XingwenCui cxw1997n@gmail.com
+ * @LastEditTime: 2022-11-18 00:26:35
+ * @FilePath: \Program_learning\c++_program\c语言学习网\if.cpp
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ */
 #include<iostream>
 #include<iomanip>
 
