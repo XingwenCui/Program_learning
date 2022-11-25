@@ -8,7 +8,7 @@ int binary_search(int* list, int len, int target) {
 	while (low <= hight) {
 		middle = (low + hight) / 2;
 		if (list[middle] = target) {
-			printf("已找到该值，数组下标为：%d\n", middle);
+			printf("The item in %d\n", middle);
 			return list[middle];
 		}
 		else if (list[middle] > target) {
@@ -18,7 +18,7 @@ int binary_search(int* list, int len, int target) {
 			low = middle + 1;
 		}
 	}
-	printf("未找到");
+	printf("Not found");
 	return -1;
 }
 
